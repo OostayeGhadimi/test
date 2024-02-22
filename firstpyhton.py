@@ -1,2 +1,2 @@
 print("New python file")
-print(""its new puthon file)
+print("its new puthon file")
